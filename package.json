@@ -1,0 +1,33 @@
+{
+  "name": "staticattic",
+  "version": "1.0.0",
+  "description": "A minimal hosting platform for static apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davinmm/staticattic-js.git"
+  },
+  "keywords": [
+    "static",
+    "web",
+    "app",
+    "hosting",
+    "aws",
+    "virtual",
+    "machine",
+    "vm"
+  ],
+  "author": "Davin Muir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davinmm/staticattic-js/issues"
+  },
+  "homepage": "https://github.com/davinmm/staticattic-js#readme",
+  "dependencies": {
+    "@pulumi/aws": "^5.10.0",
+    "@pulumi/pulumi": "^3.37.2"
+  }
+}
