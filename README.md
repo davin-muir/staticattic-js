@@ -1,5 +1,5 @@
 ### staticattic-js
-A partial replication of the python staticattic, built using JavaScript & Pulumi.
+A partial replication of the python staticattic, built using JavaScript & Pulumi. Pulumi is very consistent with its usage, and often times the only difference between its two APIs (python & JS) is syntax.
 
 ### Setup
 ##### AWS
